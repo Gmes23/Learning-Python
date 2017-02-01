@@ -24,11 +24,11 @@ while current_number <=5:
 
 # letting the user quit a prompt
 prompt = ("what is your name")
-prompt += ("enter 'quit' to end the program")
+prompt += ("\tenter 'quit' to end the program")
 
 question = " "
 while question !='quit':
     question = input(prompt)
 
     if question !='quit':
-        print("goodbye")
+        print("question")

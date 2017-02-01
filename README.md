@@ -1,2 +1,2 @@
 # python_project1
-test some python code
+learning to code python in 1 week(hehe)
